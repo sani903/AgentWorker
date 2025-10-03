@@ -1,2 +1,2 @@
 # AgentWorker
-Building agents for real-world jobs
+Building agents with memory for real-world jobs
