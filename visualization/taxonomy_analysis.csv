@@ -1,0 +1,261 @@
+BaseTaskName,TaxonomyPath,NumTasks,NumJobs,Population
+Workforce Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Workforce Scheduling,15,3,676100
+Appointment Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Appointment Scheduling,44,8,4077100
+Class Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Class Scheduling,3,1,452300
+Maintenance Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Maintenance Scheduling,3,1,38300
+Availability Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Availability Scheduling,24,1,103100
+Production Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Production Scheduling,8,1,388800
+Facility and Equipment Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Facility and Equipment Scheduling,11,1,167000
+Calendar Management,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Calendar Management,44,1,1944000
+Order Fulfillment,root -> Operations & Scheduling -> Operations Core -> Order Fulfillment,23,4,3314700
+Inventory Management,root -> Operations & Scheduling -> Operations Core -> Inventory Management,18,5,2902200
+Manufacturing Requirements Planning,root -> Operations & Scheduling -> Operations Core -> Production Administration -> Manufacturing Requirements Planning,4,3,815900
+Production Work Instructions and Resource Planning,root -> Operations & Scheduling -> Operations Core -> Production Administration -> Production Work Instructions and Resource Planning,5,1,388800
+Production Monitoring,root -> Operations & Scheduling -> Operations Core -> Production Monitoring,1,8,1583900
+Logistics Analysis,root -> Operations & Scheduling -> Operations Core -> Logistics Analysis,6,10,2337100
+Transportation Planning,root -> Operations & Scheduling -> Operations Core -> Transportation Planning,22,2,81600
+Utilities Distribution Control,root -> Operations & Scheduling -> Operations Core -> Utilities Distribution Control,1,2,18600
+Maintenance Needs Analysis,root -> Operations & Scheduling -> Operations Core -> Maintenance Needs Analysis,1,1,331500
+Equipment and Process Change Approval,root -> Operations & Scheduling -> Operations Core -> Equipment and Process Change Approval,2,1,241900
+Operational Efficiency Analysis,root -> Operations & Scheduling -> Operations Core -> Operational Efficiency Analysis,22,4,3830900
+Administrative Correspondence Preparation,root -> Operations & Scheduling -> Operations Core -> Office Administration -> Administrative Correspondence Preparation,59,1,156300
+Customer Policy and Delivery Communication,root -> Operations & Scheduling -> Operations Core -> Customer Policy and Delivery Communication,12,4,2635800
+Customer Issue Resolution,root -> Operations & Scheduling -> Operations Core -> Customer Issue Resolution,14,8,15549700
+Resource Loan Coordination,root -> Operations & Scheduling -> Operations Core -> Resource Loan Coordination,1,1,142100
+Travel Information and Advisory,root -> Operations & Scheduling -> Operations Core -> Travel Information and Advisory,105,2,263800
+Emergency Dispatch,root -> Operations & Scheduling -> Operations Core -> Emergency Dispatch,2,1,105200
+Booking and Ticketing,root -> Operations & Scheduling -> Operations Core -> Booking and Ticketing,81,12,1276200
+Risk Assessment and Mitigation Planning,root -> Operations & Scheduling -> Operations Core -> Risk Assessment and Mitigation Planning,18,1,472000
+Product Specification Development,root -> Supply Chain & Procurement -> Procurement & Purchasing -> Product Specification Development,3,1,522200
+Supplier Performance Analysis,root -> Supply Chain & Procurement -> Procurement & Purchasing -> Supplier Performance Analysis,4,2,433400
+E-Procurement Systems Administration,root -> Supply Chain & Procurement -> Procurement & Purchasing -> E-Procurement Systems Administration,0,1,83500
+Bid Evaluation and Award Preparation,root -> Supply Chain & Procurement -> Procurement & Purchasing -> Bid Evaluation and Award Preparation,4,1,83500
+Supplier and Market Research,root -> Supply Chain & Procurement -> Procurement & Purchasing -> Supplier and Market Research,21,5,1452400
+Logistics Partner Communication and Monitoring,root -> Supply Chain & Procurement -> Supply Chain Operations -> Logistics Partner Communication and Monitoring,0,1,241000
+Employee Benefits Administration,root -> Human Resources & Talent -> HR Program Administration -> Employee Benefits Administration,14,1,944300
+Employee Policy and Benefits Communication,root -> Human Resources & Talent -> HR Program Administration -> Employee Policy and Benefits Communication,6,1,221900
+Hiring and Onboarding Administration,root -> Human Resources & Talent -> HR Program Administration -> Hiring and Onboarding Administration,3,1,944300
+Candidate Communication,root -> Human Resources & Talent -> HR Program Administration -> Candidate Communication,3,2,1888600
+Candidate Sourcing,root -> Human Resources & Talent -> HR Program Administration -> Candidate Sourcing,0,1,944300
+Applicant Screening and Matching,root -> Human Resources & Talent -> HR Program Administration -> Applicant Screening and Matching,7,1,944300
+Applicant Testing Design and Administration,root -> Human Resources & Talent -> HR Program Administration -> Applicant Testing Design and Administration,0,2,1166200
+Training Program Design and Delivery,root -> Human Resources & Talent -> HR Program Administration -> Training Program Design and Delivery,4,2,904600
+Training Materials Development,root -> Human Resources & Talent -> HR Program Administration -> Training Materials Development,25,1,452300
+Training Materials Evaluation,root -> Human Resources & Talent -> HR Program Administration -> Training Materials Evaluation,0,1,452300
+Training Program Evaluation and Monitoring,root -> Human Resources & Talent -> HR Program Administration -> Training Program Evaluation and Monitoring,1,3,1356900
+Professional Development,root -> Human Resources & Talent -> HR Program Administration -> Professional Development,5,2,480500
+Employment Verification,root -> Human Resources & Talent -> HR Program Administration -> Employment Verification,5,2,1105400
+Sales Quotation and Bid Preparation,"root -> Sales, Marketing & Customer Engagement -> Sales Operations -> Sales Quotation and Bid Preparation",4,2,470200
+Sales Contract Administration,"root -> Sales, Marketing & Customer Engagement -> Sales Operations -> Sales Contract Administration",0,1,303200
+Pricing Strategy and Administration,"root -> Sales, Marketing & Customer Engagement -> Sales Operations -> Pricing Strategy and Administration",15,1,1205700
+Customer Product and Pricing Communication,"root -> Sales, Marketing & Customer Engagement -> Sales Operations -> Customer Product and Pricing Communication",33,2,370600
+Campaign Planning and Proposal,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Campaign Planning and Proposal",7,2,1076100
+Campaign Execution,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Campaign Execution",4,6,2791700
+Campaign Monitoring,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Campaign Monitoring",1,2,161400
+Online Marketing Strategy,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Online Marketing Strategy",1,1,941700
+E-commerce Content and SEO Optimization,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> E-commerce Content and SEO Optimization",6,2,2411400
+Content Strategy Development,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Content Strategy Development",2,2,991000
+Promotional Content Authoring,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Promotional Content Authoring",16,2,269800
+Sales and Marketing Knowledge Sharing,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Sales and Marketing Knowledge Sharing",1,1,303200
+Healthcare Industry Trend Monitoring,"root -> Sales, Marketing & Customer Engagement -> Marketing Operations -> Healthcare Industry Trend Monitoring",0,2,720500
+Media Relations and Inquiries Handling,"root -> Sales, Marketing & Customer Engagement -> Public Relations & Stakeholder Engagement -> Public Relations Strategy -> Media Relations and Inquiries Handling",0,1,315900
+Stakeholder Outreach,"root -> Sales, Marketing & Customer Engagement -> Public Relations & Stakeholder Engagement -> Stakeholder Outreach",14,4,501900
+Stakeholder Feedback Integration,"root -> Sales, Marketing & Customer Engagement -> Public Relations & Stakeholder Engagement -> Stakeholder Feedback Integration",7,2,422000
+Academic Instruction,root -> Education & Training -> Academic Instruction,25,1,63700
+Examination Administration,root -> Education & Training -> Examination Administration,1,2,206200
+Academic and Career Advising,root -> Education & Training -> Academic and Career Advising,0,1,103100
+Educational Records,root -> Education & Training -> Educational Records,1,1,103100
+Clinical Technology Assessment,root -> Clinical & Research Operations -> Clinical IT Strategy and Governance -> Clinical Technology Assessment,0,1,521100
+Research Participant Recruitment and Scheduling,root -> Clinical & Research Operations -> Research Participant Recruitment and Scheduling,0,1,40600
+Activity Logs,root -> Records & Information Management -> Records Management -> Activity Logs,13,2,530400
+Administrative Reporting,root -> Records & Information Management -> Records Management -> Administrative Reporting,29,9,3764700
+Clinical Documentation,root -> Records & Information Management -> Records Management -> Clinical Records & Documentation -> Clinical Documentation,10,12,2409600
+Clinical Records Management,root -> Records & Information Management -> Records Management -> Clinical Records & Documentation -> Clinical Records Management,4,4,1042100
+Government Records Management,root -> Records & Information Management -> Records Management -> Government Records Management,2,2,347200
+Human Resources Records Management,root -> Records & Information Management -> Records Management -> Human Resources Records Management,0,2,1166200
+Property Records Management,root -> Records & Information Management -> Records Management -> Property Records Management,0,7,541100
+Library Circulation and Catalog Records Management,root -> Records & Information Management -> Records Management -> Library Circulation and Catalog Records Management,1,2,284200
+Customer Account Records Management,root -> Records & Information Management -> Records Management -> Customer Account Records Management,40,3,5659800
+Laboratory Records Management,root -> Records & Information Management -> Records Management -> Laboratory Records Management,0,1,63700
+Agricultural Records Management,root -> Records & Information Management -> Records Management -> Agricultural Records Management,0,1,18600
+Procurement Records Management,root -> Records & Information Management -> Records Management -> Procurement Records Management,0,2,605700
+Records Reconciliation,root -> Records & Information Management -> Records Management -> Records Reconciliation,0,3,3205200
+Insurance Policy Processing,root -> Records & Information Management -> Records Management -> Insurance Records -> Insurance Policy Processing,0,5,1283500
+Claims Assessment and Calculation,root -> Records & Information Management -> Records Management -> Insurance Records -> Insurance Claims Documentation -> Claims Assessment and Calculation,2,1,256700
+Claims Submission and Routing,root -> Records & Information Management -> Records Management -> Insurance Records -> Insurance Claims Documentation -> Claims Submission and Routing,0,1,256700
+Claims File Maintenance,root -> Records & Information Management -> Records Management -> Insurance Records -> Insurance Claims Documentation -> Claims File Maintenance,0,1,256700
+Emergency Services Records,root -> Records & Information Management -> Records Management -> Emergency Services Records,0,2,210400
+Technical Operations Logs,root -> Records & Information Management -> Records Management -> Technical Operations Logs,2,6,1153500
+Document Storage,root -> Records & Information Management -> Document Services -> Document Storage,48,3,2331500
+Document Production & Distribution,root -> Records & Information Management -> Document Services -> Document Production & Distribution,256,21,6452900
+Information Retrieval,root -> Records & Information Management -> Document Services -> Information Retrieval,633,14,5405000
+File Conversion,root -> Records & Information Management -> Document Services -> File Conversion,56,1,5000
+Customer Data,root -> Data & Analytics -> Data Management -> Customer Data,7,5,1776400
+Data Entry,root -> Data & Analytics -> Data Management -> Data Entry,37,8,2905200
+Data Preparation,root -> Data & Analytics -> Data Management -> Data Preparation,132,3,206000
+Database Administration,root -> Data & Analytics -> Data Management -> Database Administration,9,2,156000
+Imaging Data Management,root -> Data & Analytics -> Data Management -> Imaging Data Management,7,3,445300
+Clinical Data Processing,root -> Data & Analytics -> Data Management -> Clinical Data Processing,3,2,767000
+Logistics Data Management,root -> Data & Analytics -> Data Management -> Logistics Data Management,0,3,723000
+Information Access Tools Development and Maintenance,root -> Data & Analytics -> Data Management -> Information Access Tools Development and Maintenance,5,1,142100
+Bioinformatics,root -> Data & Analytics -> Data Management -> Bioinformatics,3,3,191100
+Statistical Analysis,root -> Data & Analytics -> Data Analysis -> Statistical Analysis,165,7,625100
+Statistical Reporting,root -> Data & Analytics -> Data Analysis -> Statistical Reporting,142,6,2015000
+Numerical Analysis,root -> Data & Analytics -> Data Analysis -> Numerical Analysis,108,2,4800
+Mathematical Reasoning,root -> Data & Analytics -> Data Analysis -> Mathematical Reasoning,59,1,2400
+Mathematical and Statistical Modeling,root -> Data & Analytics -> Data Analysis -> Mathematical and Statistical Modeling,138,2,4800
+Experimentation & Optimization,root -> Data & Analytics -> Data Analysis -> Experimentation & Optimization,18,4,1922600
+Experimental Design,root -> Data & Analytics -> Data Analysis -> Experimental Design,2,4,160300
+Market Research,root -> Data & Analytics -> Data Analysis -> Market Research,29,5,1799700
+Web Analytics,root -> Data & Analytics -> Data Analysis -> Web Analytics,3,8,7063900
+Quantitative Finance Analysis,root -> Data & Analytics -> Data Analysis -> Quantitative Finance Analysis,33,1,137100
+Clinical Data Analysis,root -> Data & Analytics -> Data Analysis -> Clinical Data Analysis,11,3,653600
+Bioinformatics Data Analysis,root -> Data & Analytics -> Data Analysis -> Bioinformatics Data Analysis,25,1,63700
+Geospatial and Demographic Analysis,root -> Data & Analytics -> Data Analysis -> Geospatial and Demographic Analysis,26,3,389000
+Human Resources Data Analysis,root -> Data & Analytics -> Data Analysis -> Human Resources Data Analysis,7,1,221900
+Analytical Tools Development,root -> Data & Analytics -> Data Platform & Tools -> Analytical Tools Development,31,2,95900
+Data Processing Automation,root -> Data & Analytics -> Data Platform & Tools -> Data Processing Automation,23,1,40600
+Data Monitoring,root -> Data & Analytics -> Data Quality & Governance -> Data Monitoring,0,2,483800
+Data Validation,root -> Data & Analytics -> Data Quality & Governance -> Data Validation,14,8,1151600
+Imaging Quality Control,root -> Data & Analytics -> Data Quality & Governance -> Imaging Quality Control,0,1,28200
+Quality Control Results Analysis,root -> Data & Analytics -> Data Quality & Governance -> Quality Control Results Analysis,1,1,241900
+Quality Reporting,root -> Data & Analytics -> Data Quality & Governance -> Quality Reporting,0,2,483800
+Quality Documentation Maintenance,root -> Data & Analytics -> Data Quality & Governance -> Quality Documentation Maintenance,2,4,749800
+Documentation Quality Review,root -> Data & Analytics -> Data Quality & Governance -> Documentation Quality Review,0,2,213700
+Study Protocol Review,root -> Data & Analytics -> Data Quality & Governance -> Study Protocol Review,0,1,104300
+Analytical Method Evaluation,root -> Data & Analytics -> Data Quality & Governance -> Analytical Method Evaluation,0,1,83200
+Quality Improvement and Risk Review,root -> Data & Analytics -> Data Quality & Governance -> Quality Improvement and Risk Review,0,1,28200
+Web Development,root -> Technology & Engineering -> Software Development -> Web Development,96,1,121200
+Systems Programming,root -> Technology & Engineering -> Software Development -> Systems Programming,26,1,121200
+Software Maintenance and Enhancement,root -> Technology & Engineering -> Software Development -> Software Maintenance and Enhancement,159,1,121200
+Code Documentation,root -> Technology & Engineering -> Software Development -> Code Documentation,21,1,121200
+Performance Optimization,root -> Technology & Engineering -> Software Development -> Performance Optimization,12,1,86000
+Code Quality and Standards Review,root -> Technology & Engineering -> Software Development -> Code Quality and Standards Review,4,1,86000
+Systems Analysis and Design,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Systems Analysis and Design,8,15,5327100
+Systems Configuration and Integration,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Systems Configuration and Integration,92,6,1855800
+Network Troubleshooting,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Network Administration -> Network Troubleshooting,4,1,152700
+Disaster Recovery,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Disaster Recovery,0,4,1139000
+Security Administration,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Security Administration,5,0,0
+Technology Evaluation and Selection,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Technology Evaluation and Selection,5,1,472000
+Technology Research and Innovation,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Technology Research and Innovation,0,4,777800
+Technology Trend Monitoring,root -> Technology & Engineering -> Systems & Infrastructure Engineering -> Technology Trend Monitoring,1,3,1068000
+Geospatial Systems Administration,root -> Technology & Engineering -> Geospatial & Mapping Engineering -> Geospatial Systems Administration,0,1,1500
+Geospatial Interpretation,root -> Technology & Engineering -> Geospatial & Mapping Engineering -> Geospatial Interpretation,22,6,220400
+Cartographic Production and GIS Mapping,root -> Technology & Engineering -> Geospatial & Mapping Engineering -> Cartographic Production and GIS Mapping,14,2,112000
+Engineering Design,root -> Technology & Engineering -> Engineering Design & Testing -> Engineering Design,17,10,1814800
+Engineering Testing and Evaluation,root -> Technology & Engineering -> Engineering Design & Testing -> Engineering Testing and Evaluation,12,1,293100
+Blueprint and Schematic Interpretation,root -> Technology & Engineering -> Engineering Design & Testing -> Blueprint and Schematic Interpretation,1,3,336400
+Prototyping and Mockups,root -> Technology & Engineering -> Engineering Design & Testing -> Prototyping and Mockups,2,4,528700
+Bill of Materials Verification,root -> Technology & Engineering -> Engineering Design & Testing -> Bill of Materials Preparation -> Bill of Materials Verification,0,1,303200
+Technical Drafting,root -> Technology & Engineering -> Engineering Design & Testing -> Technical Drafting,4,6,773400
+Architectural Plan Development,root -> Technology & Engineering -> Engineering Design & Testing -> Architectural Plan Development,0,4,481300
+Architectural Systems Integration,root -> Technology & Engineering -> Engineering Design & Testing -> Architectural Systems Integration,0,2,234100
+Clinical Informatics Solution Development and Evaluation,root -> Technology & Engineering -> Healthcare Informatics Engineering -> Clinical Informatics Solution Development and Evaluation,0,1,521100
+Nursing Informatics Tools Development and Evaluation,root -> Technology & Engineering -> Healthcare Informatics Engineering -> Nursing Informatics Tools Development and Evaluation,0,1,521100
+Documentation Revision Planning,root -> Technology & Engineering -> Technical Documentation -> Technical Documentation Authoring -> Documentation Revision Planning,0,1,56400
+Test Planning and Design,root -> Technology & Engineering -> Software QA & Testing -> Test Planning and Design,11,5,1115400
+Test Documentation,root -> Technology & Engineering -> Software QA & Testing -> Test Documentation,4,3,481900
+Test Automation,root -> Technology & Engineering -> Software QA & Testing -> Test Automation,9,1,201700
+System Testing,root -> Technology & Engineering -> Software QA & Testing -> System Testing,3,6,1471700
+Defect Tracking,root -> Technology & Engineering -> Software QA & Testing -> Defect Tracking,0,4,806800
+Defect Remediation,root -> Technology & Engineering -> Software QA & Testing -> Defect Remediation,68,4,1192300
+Testing Tools Administration,root -> Technology & Engineering -> Software QA & Testing -> Testing Tools Administration,1,1,201700
+Usability Evaluation,root -> Technology & Engineering -> Software QA & Testing -> Usability Evaluation,0,1,201700
+Specification Compliance Assessment,root -> Technology & Engineering -> Software QA & Testing -> Specification Compliance Assessment,0,6,1125900
+Quality Standards and Procedures Development,root -> Technology & Engineering -> Software QA & Testing -> Quality Standards and Procedures Development,0,2,443600
+Digital Illustration and Graphics Creation,root -> Technology & Engineering -> Product & Content Development -> Digital Illustration and Graphics Creation,25,5,1043200
+Image Editing and Retouching,root -> Technology & Engineering -> Product & Content Development -> Image Editing and Retouching,39,3,307400
+3D Modeling and CAD,root -> Technology & Engineering -> Product & Content Development -> 3D Modeling and CAD,1,1,123600
+Prepress and Color Management,root -> Technology & Engineering -> Product & Content Development -> Prepress and Color Management,0,3,255800
+Typesetting and Layout,root -> Technology & Engineering -> Product & Content Development -> Typesetting and Layout,60,8,672600
+Marketing Collateral Design,root -> Technology & Engineering -> Product & Content Development -> Marketing Collateral Design,5,3,505000
+Video Editing and Post-Production,root -> Technology & Engineering -> Product & Content Development -> Video Editing and Post-Production,30,1,167000
+Broadcast Technical Direction,root -> Technology & Engineering -> Product & Content Development -> Broadcast Technical Direction,0,3,501000
+Scriptwriting and Story Development,root -> Technology & Engineering -> Product & Content Development -> Scriptwriting and Story Development,9,1,167000
+Editing and Copyediting,root -> Technology & Engineering -> Product & Content Development -> Editing and Copyediting,35,8,2544500
+News Gathering and Analysis,root -> Technology & Engineering -> Product & Content Development -> Editorial and Journalistic Writing -> News Gathering and Analysis,33,4,197200
+Story Ideation and Planning,root -> Technology & Engineering -> Product & Content Development -> Editorial and Journalistic Writing -> Story Ideation and Planning,10,4,396700
+Visual Presentation Planning,root -> Technology & Engineering -> Product & Content Development -> Art Direction -> Visual Presentation Planning,5,1,265900
+Design Presentation and Client Approval,root -> Technology & Engineering -> Product & Content Development -> Art Direction -> Design Presentation and Client Approval,1,3,536300
+Gameplay Content Design,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Gameplay Content Design,15,1,128900
+Gameplay Balancing and Tuning,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Gameplay Balancing and Tuning,2,1,128900
+Competitive and Creative Media Analysis,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Competitive and Creative Media Analysis,0,1,128900
+Design Implementation Review and Feedback,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Design Implementation Review and Feedback,0,2,257800
+Design Documentation Development and Maintenance,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Design Documentation Development and Maintenance,0,1,128900
+Narrative and Dialogue Writing,root -> Technology & Engineering -> Product & Content Development -> Game Design -> Narrative and Dialogue Writing,0,1,128900
+Caption and Alt Text Writing,root -> Technology & Engineering -> Product & Content Development -> Caption and Alt Text Writing,10,1,151200
+Script and Story Analysis,root -> Technology & Engineering -> Product & Content Development -> Script and Story Analysis,1,1,167000
+Lighting and Exposure Measurement,root -> Technology & Engineering -> Product & Content Development -> Lighting and Exposure Measurement,0,1,151200
+Content Quality Review,root -> Technology & Engineering -> Product & Content Development -> Content Quality Review,8,13,1201300
+Help Desk Support,root -> IT Operations & Support -> Help Desk & End-User Support -> Help Desk Support,42,4,1697700
+User Training and Materials Development,root -> IT Operations & Support -> Help Desk & End-User Support -> User Training and Materials Development,2,3,914400
+Support Activity Documentation,root -> IT Operations & Support -> Help Desk & End-User Support -> Support Activity Documentation,0,1,152700
+Communication Logs,root -> IT Operations & Support -> Help Desk & End-User Support -> Communication Logs,0,1,729500
+Systems Monitoring,root -> IT Operations & Support -> IT Operations -> Systems Monitoring,5,6,2218900
+Systems Diagnostics,root -> IT Operations & Support -> IT Operations -> Systems Diagnostics,5,5,2315800
+IT Service Management,root -> IT Operations & Support -> IT Operations -> IT Service Management,4,2,1188200
+Hardware and Software Evaluation and Recommendation,root -> IT Operations & Support -> IT Operations -> Hardware and Software Evaluation and Recommendation,6,1,729500
+Analytical Application Support,root -> IT Operations & Support -> IT Operations -> Analytical Application Support,0,1,137100
+Engineering Technical Support,root -> IT Operations & Support -> IT Operations -> Engineering Technical Support,0,3,529900
+Clinical Systems Configuration Consultation,root -> IT Operations & Support -> IT Operations -> Clinical Systems Configuration Consultation,0,1,521100
+Web Management,root -> IT Operations & Support -> IT Operations -> Web Management,13,11,3592700
+Security Monitoring,root -> IT Operations & Support -> Security & Compliance Operations -> Security Monitoring,2,4,893500
+Security Administration,root -> IT Operations & Support -> Security & Compliance Operations -> Security Administration,16,6,1005800
+Messaging and Security Software Administration,root -> IT Operations & Support -> Security & Compliance Operations -> Messaging and Security Software Administration,8,3,2361500
+Sensitive Materials Security and Access Control,root -> IT Operations & Support -> Security & Compliance Operations -> Sensitive Materials Security and Access Control,3,1,105200
+Project Planning and Coordination,root -> Project & Program Management -> Project Planning and Coordination,31,7,3526900
+Project Tracking,root -> Project & Program Management -> Project Tracking,55,4,2083100
+Project Change Control,root -> Project & Program Management -> Project Change Control,2,2,1139100
+Feasibility Analysis,root -> Project & Program Management -> Feasibility Analysis,8,4,1548300
+Business Process Analysis,root -> Project & Program Management -> Business Process Analysis,16,4,4300400
+Technical Team Supervision,root -> Project & Program Management -> Technical Team Supervision,0,2,788300
+Administrative Team Supervision,root -> Project & Program Management -> Administrative Team Supervision,0,1,1944000
+Cost Estimation,root -> Project & Program Management -> Cost Estimation,5,4,967400
+Sustainability Metrics Monitoring,root -> Sustainability & ESG -> Sustainability Policy Management -> Sustainability Metrics Monitoring,0,1,1205700
+Sustainability Program Support,root -> Sustainability & ESG -> Sustainability Policy Management -> Sustainability Program Support,0,1,1205700
+Sustainability Research and Analysis,root -> Sustainability & ESG -> Sustainability Policy Management -> Sustainability Research and Analysis,14,3,3617100
+Sustainability Reporting and Communication,root -> Sustainability & ESG -> Sustainability Policy Management -> Sustainability Reporting and Communication,0,2,1364500
+Court Communication,root -> Legal & Compliance -> Legal Operations -> Court Communication,0,2,360800
+Court Orders Administration,root -> Legal & Compliance -> Legal Operations -> Court Orders Administration,0,1,180400
+Court Records Management,root -> Legal & Compliance -> Legal Operations -> Court Records Management,5,3,375300
+Docket Monitoring,root -> Legal & Compliance -> Legal Operations -> Docket Monitoring,0,1,14500
+Legal Records and File Management,root -> Legal & Compliance -> Legal Operations -> Legal Records and File Management,0,1,156300
+Legal Form Preparation,root -> Legal & Compliance -> Legal Operations -> Legal Form Preparation,2,1,156300
+Legal Document Drafting and Review,root -> Legal & Compliance -> Legal Operations -> Legal Document Drafting and Review,27,7,1220000
+Legal Research Support,root -> Legal & Compliance -> Legal Operations -> Legal Research Support,7,1,156300
+Case Law and Statutory Research,root -> Legal & Compliance -> Legal Operations -> Case Law and Statutory Research,10,2,879300
+Case Outcome Analysis,root -> Legal & Compliance -> Legal Operations -> Case Outcome Analysis,0,1,864800
+Regulatory Monitoring,root -> Legal & Compliance -> Regulatory & Compliance -> Regulatory Monitoring,4,3,3189600
+Regulatory Compliance Review,root -> Legal & Compliance -> Regulatory & Compliance -> Regulatory Compliance Review,18,2,2667400
+Regulatory Examination Reporting,root -> Legal & Compliance -> Regulatory & Compliance -> Regulatory Examination Reporting,0,1,65100
+Regulatory Filings Preparation and Submission,root -> Legal & Compliance -> Regulatory & Compliance -> Regulatory Filings Preparation and Submission,2,1,1333700
+Compliance Communication,root -> Legal & Compliance -> Regulatory & Compliance -> Compliance Communication,3,2,598400
+Corporate Governance Records Review,root -> Legal & Compliance -> Regulatory & Compliance -> Corporate Governance Records Review,0,1,65100
+Eligibility and Liability Assessment,root -> Legal & Compliance -> Regulatory & Compliance -> Eligibility and Liability Assessment,4,6,4766600
+Zoning and Building Code Review,root -> Legal & Compliance -> Regulatory & Compliance -> Zoning and Building Code Review,0,2,187800
+Tax Law Research,root -> Legal & Compliance -> Regulatory & Compliance -> Tax Law Research,0,1,90600
+Public Notice Administration,root -> Legal & Compliance -> Regulatory & Compliance -> Public Notice Administration,0,1,180400
+Procurement Compliance Review,root -> Legal & Compliance -> Regulatory & Compliance -> Procurement Compliance Review,0,2,167000
+Tax Preparation,root -> Legal & Compliance -> Financial Compliance & Tax -> Tax Preparation,7,5,1942200
+Tax Advisory,root -> Legal & Compliance -> Financial Compliance & Tax -> Tax Advisory,12,2,181200
+Financial Compliance Monitoring,root -> Legal & Compliance -> Financial Compliance & Tax -> Financial Compliance Monitoring,2,2,1383100
+Internal Controls Audit,root -> Legal & Compliance -> Financial Compliance & Tax -> Internal Controls Audit,0,1,1579800
+Accounting,root -> Finance & Accounting -> Accounting & Bookkeeping -> Accounting,6,10,14593800
+Vendor Payment Systems Administration,root -> Finance & Accounting -> Accounting & Bookkeeping -> Accounts Payable -> Vendor Payment Systems Administration,0,1,241000
+Accounts Receivable,root -> Finance & Accounting -> Accounting & Bookkeeping -> Accounts Receivable,0,3,2140000
+Billing and Invoicing,root -> Finance & Accounting -> Accounting & Bookkeeping -> Billing and Invoicing,9,9,10546100
+Payroll,root -> Finance & Accounting -> Accounting & Bookkeeping -> Payroll,3,15,6359200
+Financial Operations Administration,root -> Finance & Accounting -> Accounting & Bookkeeping -> Financial Operations Administration,15,4,3966800
+Budgeting,root -> Finance & Accounting -> Financial Planning & Analysis -> Budgeting,32,9,2532400
+Financial Reporting,root -> Finance & Accounting -> Financial Planning & Analysis -> Financial Reporting,18,9,6146200
+Financial Assessment,root -> Finance & Accounting -> Financial Planning & Analysis -> Financial Assessment,51,13,4180100
+Treasury and Cash Management,root -> Finance & Accounting -> Financial Planning & Analysis -> Treasury and Cash Management,2,1,868600
+Credit Application Processing,root -> Finance & Accounting -> Credit & Lending Operations -> Credit Application Processing,0,5,1842400
+Loan and Credit Records Management,root -> Finance & Accounting -> Credit & Lending Operations -> Loan and Credit Records Management,0,1,301400
+Credit and Loan Approval,root -> Finance & Accounting -> Credit & Lending Operations -> Credit and Loan Approval,0,4,1772800
+Credit Risk Analysis,root -> Finance & Accounting -> Credit & Lending Operations -> Credit Risk Analysis,0,2,135600
+Debt Repayment Planning,root -> Finance & Accounting -> Credit & Lending Operations -> Debt Repayment Planning,0,3,95400
+Financial Advisory and Client Support,root -> Finance & Accounting -> Financial Advisory & Client Services -> Financial Advisory and Client Support,17,1,31800
+Client Portfolio Management,root -> Finance & Accounting -> Financial Advisory & Client Services -> Client Portfolio Management,5,2,652000
+Financial Market Monitoring,root -> Finance & Accounting -> Financial Advisory & Client Services -> Financial Market Monitoring,39,5,2525000
+Financial Services Policy Communication,root -> Finance & Accounting -> Financial Advisory & Client Services -> Financial Services Policy Communication,0,1,31800
