@@ -1,25 +1,48 @@
-import dash
 import json
+import os
+import dash
+import colorsys
 
 import plotly.express as px
 import pandas as pd
 
 from dash import dcc, html, Output, Input
 
+app = dash.Dash(__name__)
+
+##########################################################################
+#                                                                        #
+##########################################################################
 df = pd.read_csv("taxonomy_analysis.csv")
 df["NumTasks_logsafe"] = df["NumTasks"].replace(0, 5e-1)
 taxonomy = json.load(open("../taxonomy_with_similarity_updated.json"))
 
-app = dash.Dash(__name__)
+def norm_cluster(path, levels=2):
+    if pd.isna(path):
+        return "Unknown"
+    parts = [p.strip() for p in str(path).split(" -> ") if p.strip()]
+    return " / ".join(parts[:levels]) if parts else "Unknown"
 
-fig = px.scatter(df, x="NumJobs", y="NumTasks_logsafe", size="Population", color="BaseTaskName", hover_name="BaseTaskName", custom_data="TaxonomyPath", log_y=True, size_max=60)
+df["Cluster"] = df["TaxonomyPath"].apply(lambda p: norm_cluster(p, levels=2))
 
-fig.update_layout(height=1200)
+def hsl(h, s, l):  # h,s,l in [0,1]
+    r,g,b = colorsys.hls_to_rgb(h, l, s)
+    return f"#{int(r*255):02x}{int(g*255):02x}{int(b*255):02x}"
 
-app.layout = html.Div([
-    dcc.Graph(id="bubble-plot", figure=fig, style={"height": "1200px"}),
-    html.Div(id="click-output")
-])
+clusters = sorted(df["Cluster"].dropna().unique())
+cluster_hues = {c: (i / max(1, len(clusters))) for i, c in enumerate(clusters)}  # spread hues
+
+skill_colors = {}
+for c in clusters:
+    c_df = df[df["Cluster"] == c].sort_values("Skill")
+    hue = cluster_hues[c]
+    # choose a few lightness levels that are visually distinct
+    lightness_options = [0.38, 0.48, 0.58, 0.68, 0.78]
+    for idx, skill in enumerate(c_df["Skill"].unique()):
+        l = lightness_options[idx % len(lightness_options)]
+        skill_colors[skill] = hsl(hue, 0.62, l)
+
+fig = px.scatter(df, x="NumJobs", y="NumTasks_logsafe", size="Population", color="Skill", hover_name="Skill", custom_data="TaxonomyPath", log_y=True, size_max=60, color_discrete_map=skill_colors)
 
 @app.callback(
     Output("click-output", "children"),
@@ -181,6 +204,23 @@ def display_click(clickData):
         note
     ], style={"fontFamily": "Arial, sans-serif", "fontSize": "14px"})
 
+##########################################################################
+#                                                                        #
+##########################################################################
+df2 = pd.read_csv("job_skill_employment.csv")
+fig2 = px.scatter(df2, x="coverage", y="employment", color="jobs", hover_name="jobs", custom_data="skills", log_y=True, size_max=60)
+
+
+##########################################################################
+#                                                                        #
+##########################################################################
+app.layout = html.Div([
+    dcc.Graph(id="bubble-plot-2", figure=fig2, style={"height": "800px"}),
+    dcc.Graph(id="bubble-plot", figure=fig, style={"height": "1200px"}),
+    html.Div(id="click-output"),
+])
+
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8050, debug=True)
+    port = int(os.environ.get('PORT', 8050))
+    app.run(host="0.0.0.0", port=port, debug=True)

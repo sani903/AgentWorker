@@ -1,4 +1,4 @@
-BaseTaskName,TaxonomyPath,NumTasks,NumJobs,Population
+Skill,TaxonomyPath,NumTasks,NumJobs,Population
 Workforce Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Workforce Scheduling,15,3,676100
 Appointment Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Appointment Scheduling,44,8,4077100
 Class Scheduling,root -> Operations & Scheduling -> Scheduling & Calendar Management -> Class Scheduling,3,1,452300
